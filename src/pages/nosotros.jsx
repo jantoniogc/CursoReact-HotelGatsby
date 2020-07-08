@@ -4,11 +4,11 @@ import Layout from "../components/layout"
 
 
 
-const IndexPage = () => (
+const NosotrosPage = () => (
   <Layout>
-    <h1>Gatsby Hotel</h1>
+    <h1>Nosotros</h1>
   </Layout>
 
 )
 
-export default IndexPage
+export default NosotrosPage
